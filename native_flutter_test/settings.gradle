@@ -1,0 +1,13 @@
+include ':app'
+setBinding(new Binding([gradle: this]))
+evaluate(new File(
+  settingsDir,
+  '../nft_flutter_module/.android/include_flutter.groovy'
+))
+rootProject.name = "native_flutter_test"
+
+include ':nft_flutter_module'
+project(':nft_flutter_module').projectDir = new File('../nft_flutter_module')
+
+include ':nft_flutter_module'
+project(':nft_flutter_module').projectDir = new File('../nft_flutter_module')

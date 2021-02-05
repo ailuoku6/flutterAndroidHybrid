@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../nft_flutter_module" />
+            <option value="$PROJECT_DIR$/../nft_flutter_module/.android/Flutter" />
+            <option value="$USER_HOME$/flutterSDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_aliplayer-5.2.3/android" />
+            <option value="$USER_HOME$/flutterSDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_aliplayer_artc-5.2.3/android" />
+            <option value="$USER_HOME$/flutterSDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_aliplayer_rts-1.5.0/android" />
+            <option value="$USER_HOME$/flutterSDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-7.1.6/android" />
+            <option value="$USER_HOME$/flutterSDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider-1.6.27/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
